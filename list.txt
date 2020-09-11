@@ -1,4 +1,4 @@
-Please wite your name above. 
+oPlease wite your name above. 
 <br>Firstly, you clone the repository to your local
 <br>Secondly, you create your own branch, you pull the last change from "master branch" to your branch.
 <br>Thirdly, you write your name to list.txt in your branch. 
