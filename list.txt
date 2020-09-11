@@ -1,0 +1,4 @@
+Please wite your name above. 
+Firstly, you create your own branch, you pull the last change from master branch in your branch.
+Secondly, you write your name in your branch to list.txt.
+Finally, master will pull the last change.
